@@ -1,1 +1,0 @@
-{"name":"Local: tongsolon","url":"c:\\VScode\\code.c\\code.c\\code.cpp\\tongsolon.cpp","tests":[{"id":1701769819035,"input":"1\n12\n19811","output":"198123"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\VScode\\code.c\\code.c\\code.cpp\\tongsolon.cpp","group":"local","local":true}
